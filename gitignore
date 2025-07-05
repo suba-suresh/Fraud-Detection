@@ -1,25 +1,24 @@
-# Build results
+# Ignore build results
 bin/
 obj/
 
-# User-specific files
+# Ignore user-specific files
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
 
-# Rider project files
-.idea/
-
-# VS Code settings
+# IDEs
 .vscode/
+.idea/
 
 # Logs
 *.log
 
-# Others
-*.DS_Store
-*.swp
+# OS-specific
+.DS_Store
 
-# Package folders
+# NuGet
+*.nupkg
+*.snupkg
 packages/
