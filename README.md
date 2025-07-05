@@ -15,7 +15,7 @@ This C# console app simulates an order intake system and scans for:
 - Duplicate Order IDs
 - Orders from flagged user IDs
 
-This system flags such orders and prints them for review by the fraud team. 
+This system flags such orders and prints them for review. 
 
 ---
 
